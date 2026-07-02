@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.VentasApp" parent="Theme.Material3.DayNight.NoActionBar">
 
-        <item name="colorPrimary">@color/Celeste_claro</item>
+        <item name="colorPrimary">@color/celeste_claro</item>
     </style>
 
     <style name="Theme.VentasApp" parent="Base.Theme.VentasApp" />
